@@ -9,7 +9,7 @@ Which country owns the maximum amount of debt and what does that amount look lik
 What is the average amount of debt owed by countries across different debt indicators?
 The data used in this project is provided by [The World Bank](https://www.worldbank.org/en/home). It contains both national and regional debt statistics for several countries across the globe as recorded from 1970 to 2015.
 ## Contents
-1. The World Bank's international debt data
+1. **The World Bank's international debt data:** Inspect the international debt data.
 2. Finding the number of distinct countries
 3. Finding out the distinct debt indicators
 4. Totaling the amount of debt owed by the countries
