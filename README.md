@@ -11,7 +11,7 @@ The data used in this project is provided by [The World Bank](https://www.worldb
 ## Contents
 1. **The World Bank's international debt data:** Inspect the international debt data.
 2. **Finding the number of distinct countries:** Find the number of distinct countries.
-3. Finding out the distinct debt indicators
+3. **Finding out the distinct debt indicators:** Extract the unique debt indicators in the table.
 4. Totaling the amount of debt owed by the countries
 5. Country with the highest debt
 6. Average amount of debt across indicators
