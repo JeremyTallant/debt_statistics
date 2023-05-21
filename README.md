@@ -13,8 +13,8 @@ The data used in this project is provided by [The World Bank](https://www.worldb
 2. **Finding the number of distinct countries:** Find the number of distinct countries.
 3. **Finding out the distinct debt indicators:** Extract the unique debt indicators in the table.
 4. **Totaling the amount of debt owed by the countries:** Find out the total amount of debt as reflected in the table.
-5. **Country with the highest debt:**
-6. **Average amount of debt across indicators:**
-7. **The highest amount of principal repayments:**
-8. **The most common debt indicator:**
-9. **Other viable debt issues and conclusion:**
+5. **Country with the highest debt:** Find out the country owing to the highest debt.
+6. **Average amount of debt across indicators:** Determine the average amount of debt owed across the categories.
+7. **The highest amount of principal repayments:** Find out the country with the highest amount of principal repayments.
+8. **The most common debt indicator:** Find out the debt indicator that appears most frequently.
+9. **Other viable debt issues and conclusion:** Get the maximum amount of debt that each country owes.
